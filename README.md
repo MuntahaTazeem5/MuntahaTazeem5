@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Muntaha<br/>
 
-<!--
-**MuntahaTazeem5/MuntahaTazeem5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python enthusiast | 💻 Aspiring developer<br/>
+🚀 Currently building cool things with code — one project at a time<br/>
+📚 Learning: data structures, APIs, automation, and more<br/>
 
-Here are some ideas to get you started:
+🌱 Currently Exploring<br/>
+Backend scripting with Python<br/>
+APIs and web automation<br/>
+Real-world coding projects<br/>
+💡 Interests<br/>
+Beginner-friendly coding resources<br/>
+Building tools that solve problems<br/>
+Learning in public<br/>
+📫 Contact Me<br/>
+Email: danielzara513@gmail.com<br/>
+GitHub: MuntahaTazeem5<br/>
+✨ “Build. Break. Learn. Repeat.”<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
